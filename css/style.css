@@ -780,6 +780,20 @@ header .navbar .cta-btn a:hover{
     margin-bottom:40px
 }
 
+/* .page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.carousel-container {
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.owl-carousel {
+    height: 100%;
+} */
 
 .form-wrap.overlap{
     z-index:99;position:relative;margin-top:-10em
