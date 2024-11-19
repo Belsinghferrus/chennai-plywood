@@ -238,3 +238,16 @@
 })(jQuery);
 
 
+// document.addEventListener('DOMContentLoaded', function() {
+//   const links = document.getElementsByTagName('a');
+  
+//   for (let i = 0; i < links.length; i++) {
+//       if (links[i].href) {
+//           links[i].href = links[i].href.replace(/\.html$/, '');
+          
+//           if (links[i].href.startsWith('http://') || links[i].href.startsWith('https://')) {
+//               links[i].href = links[i].href.replace(/\.html$/, '');
+//           }
+//       }
+//   }
+// });
